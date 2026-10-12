@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# 로컬 실험용 입력 및 출력
+input*.txt
+output*.txt
+*.out
